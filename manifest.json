@@ -1,0 +1,37 @@
+{
+  "channel": "@final_test",
+  "channel_id": "",
+  "violation": "Fraud",
+  "count": 20,
+  "post_links": [
+    "https://t.me/final_test/9"
+  ],
+  "recipients": [
+    "abuse@telegram.org",
+    "support@telegram.org"
+  ],
+  "ai_note": "\u062a\u0633\u062a \u0646\u0647\u0627\u06cc\u06cc \u067e\u0646\u0644",
+  "generated": "2026-08-25T14:33:19",
+  "files": [
+    "report_001.txt",
+    "report_002.txt",
+    "report_003.txt",
+    "report_004.txt",
+    "report_005.txt",
+    "report_006.txt",
+    "report_007.txt",
+    "report_008.txt",
+    "report_009.txt",
+    "report_010.txt",
+    "report_011.txt",
+    "report_012.txt",
+    "report_013.txt",
+    "report_014.txt",
+    "report_015.txt",
+    "report_016.txt",
+    "report_017.txt",
+    "report_018.txt",
+    "report_019.txt",
+    "report_020.txt"
+  ]
+}
